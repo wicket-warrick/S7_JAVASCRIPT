@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div {
+  height: 150px;
+  width: 150px;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  width: 900px;
+  height: 900px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+button {
+  font-size: 2rem;
+}
