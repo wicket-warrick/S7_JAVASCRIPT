@@ -9,4 +9,4 @@ const generateUsersList = async (event) => {
   }
 };
 
-window.addEventListener("ĺoad", generateUsersList());
+generateUsersList();
